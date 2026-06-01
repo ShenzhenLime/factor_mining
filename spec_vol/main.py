@@ -36,7 +36,7 @@ def main():
     # simulate_trade(factor_table=factor_table, fac_freq='月度', n_top=5, factor_direction='小', slippage_rate=0.5)
 
 if __name__ == '__main__':
-    # main()
+    main()
     # group_plot('全市场', '月度', 'short', factor_table)
     # ic_plot('全市场', '月度', factor_table)
     # ic_half_life(factor_table=factor_table, max_lag=200)
